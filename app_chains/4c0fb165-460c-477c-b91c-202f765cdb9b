@@ -1,0 +1,8 @@
+{
+  "name": "sbjnk",
+  "logo": "https://ih1.redbubble.net/image.4690099235.7160/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+  "rpc_url": "http://161.97.137.69:9944",
+  "explorer_url": "http://161.97.137.69:4000",
+  "metrics_endpoint": "http://161.97.137.69:9615/metrics",
+  "id": "4c0fb165-460c-477c-b91c-202f765cdb9b"
+}
